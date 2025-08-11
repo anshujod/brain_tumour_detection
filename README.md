@@ -46,7 +46,7 @@ The fine-tuning process was highly successful. The model's ability to correctly 
 ![Final Confusion Matrix](path/to/your/confusion_matrix_image.png)
 
 **Final Classification Report:**
-![Final Classification Report](path/to/your/classification_report_image.png)
+![Final Classification Report](classification_report.png)
 
 
 ## How to Run This Project
