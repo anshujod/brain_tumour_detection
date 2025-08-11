@@ -61,4 +61,4 @@ The fine-tuning process was highly successful. The model's ability to correctly 
 Here is an example of the model correctly identifying a tumor in an image it had not seen before.
 
 *(**Action for you:** Take a screenshot of one of your single-image predictions, upload the image to your repository, and update the path below.)*
-![Example Prediction](brain_image.png)
+![Example Prediction](brain_img.png)
