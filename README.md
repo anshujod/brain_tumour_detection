@@ -43,7 +43,7 @@ The fine-tuning process was highly successful. The model's ability to correctly 
 *(**Action for you:** Take screenshots of your final classification report and confusion matrix. Upload these image files to your GitHub repository, then update the image paths below.)*
 
 **Final Confusion Matrix:**
-![Final Confusion Matrix](path/to/your/confusion_matrix_image.png)
+![Final Confusion Matrix](confusion_matrix.png)
 
 **Final Classification Report:**
 ![Final Classification Report](classification_report.png)
@@ -61,4 +61,4 @@ The fine-tuning process was highly successful. The model's ability to correctly 
 Here is an example of the model correctly identifying a tumor in an image it had not seen before.
 
 *(**Action for you:** Take a screenshot of one of your single-image predictions, upload the image to your repository, and update the path below.)*
-![Example Prediction](path/to/your/prediction_example.png)
+![Example Prediction](brain_image.png)
