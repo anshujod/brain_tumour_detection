@@ -40,7 +40,6 @@ The dataset contains 253 images, with 155 images of brains with tumors and 98 im
 
 The fine-tuning process was highly successful. The model's ability to correctly identify actual tumors improved dramatically, which is the most critical metric for a medical diagnosis task.
 
-*(**Action for you:** Take screenshots of your final classification report and confusion matrix. Upload these image files to your GitHub repository, then update the image paths below.)*
 
 **Final Confusion Matrix:**
 ![Final Confusion Matrix](confusion_matrix.png)
@@ -60,5 +59,4 @@ The fine-tuning process was highly successful. The model's ability to correctly 
 
 Here is an example of the model correctly identifying a tumor in an image it had not seen before.
 
-*(**Action for you:** Take a screenshot of one of your single-image predictions, upload the image to your repository, and update the path below.)*
 ![Example Prediction](brain_img.png)
